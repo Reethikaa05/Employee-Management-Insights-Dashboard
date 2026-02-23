@@ -6,7 +6,9 @@ An advanced, high-performance React application designed with **Glassmorphism ae
 
 #### 🎥 Walkthrough Video
 <div align="center">
-  <video src="public/video/ScreenRecord.mp4" width="100%" controls></video>
+  <video src="https://github.com/Reethikaa05/Employee-Management-Insights-Dashboard/raw/main/public/video/ScreenRecord.mp4" width="100%" controls>
+    Your browser does not support the video tag. You can <a href="https://github.com/Reethikaa05/Employee-Management-Insights-Dashboard/raw/main/public/video/ScreenRecord.mp4">download the video here</a>.
+  </video>
 </div>
 
 #### 🖼️ Screenshot Gallery
