@@ -6,7 +6,7 @@ An advanced, high-performance React application designed with **Glassmorphism ae
 
 #### 🎥 Walkthrough Video
 <div align="center">
-  <video src="public/video/Screen-Record.mp4" width="100%" controls></video>
+  <video src="public/video/ScreenRecord.mp4" width="100%" controls></video>
 </div>
 
 #### 🖼️ Screenshot Gallery
