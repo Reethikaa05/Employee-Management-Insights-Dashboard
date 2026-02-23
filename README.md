@@ -2,15 +2,6 @@
 
 An advanced, high-performance React application designed with **Glassmorphism aesthetics** and **Real-time Data Visualization**. This platform provides a seamless experience for managing employee records, tracking global talent distribution, and verifying identities through integrated biometric capture.
 
-### 📸 Visual Overview
-
-#### 🎥 Walkthrough Video
-<div align="center">
-  <video src="https://raw.githubusercontent.com/Reethikaa05/Employee-Management-Insights-Dashboard/main/public/video/ScreenRecord.mp4" width="100%" controls>
-    Your browser does not support the video tag. You can <a href="https://raw.githubusercontent.com/Reethikaa05/Employee-Management-Insights-Dashboard/main/public/video/ScreenRecord.mp4">download the video here</a>.
-  </video>
-</div>
-
 #### 🖼️ Screenshot Gallery
 
 | **Login Experience** | **Data Insights Dashboard** |
